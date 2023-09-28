@@ -1,0 +1,6 @@
+[submodule "kingsystem-server"]
+	path = kingsystem-server
+	url = ./kingsystem-server/
+[submodule "kingsystem-client"]
+	path = kingsystem-client
+	url = ./kingsystem-client/
