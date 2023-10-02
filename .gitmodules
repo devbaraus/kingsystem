@@ -1,6 +1,6 @@
 [submodule "kingsystem-server"]
 	path = kingsystem-server
-	url = ./kingsystem-server/
+	url = https://github.com/devbaraus/kingsystem-server.git
 [submodule "kingsystem-client"]
 	path = kingsystem-client
-	url = ./kingsystem-client/
+	url = https://github.com/devbaraus/kingsystem-client.git
